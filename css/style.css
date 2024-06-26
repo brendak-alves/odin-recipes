@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&display=swap');
+
+* {
+    background-color:#fff6eb;
+    font-family: 'Raleway', sans-serif;
+    color: #3e301f;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    line-height: 2em;
+}
+
+.main__title {
+    font-family: 'Cinzel', serif;
+    text-decoration: overline;
+    margin-top: -20px;
+    padding: 15px;
+    color: #4F3080;
+}
+
+.sub__title__description {
+    text-align: center;
+    margin-top: 25px;
+    padding: 5px;
+    color: #4F3080;
+}
+
+.description__paragraph {
+    line-height: 1.5em;
+    padding: 10px;
+    margin: 5px 30% 20px 30%;
+    text-align: justify;
+}
+
+.sub__title__lists {
+    color: #4F3080;
+    padding: 1.5%;
+}
+
+.link {
+    text-decoration: none;
+}
+
+.footer {
+    margin-bottom: 30px;
+}
